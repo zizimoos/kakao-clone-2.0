@@ -1,24 +1,24 @@
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 20px;
 }
 .header .header__title {
-  font-size: 22px;
-  font-weight: 600;
+	font-size: 22px;
+	font-weight: 600;
 }
 .header .header__icon {
-  font-size: 18px;
-  margin-left: 20px;
-  opacity: 0.6;
-  cursor: pointer;
+	font-size: 18px;
+	margin-left: 20px;
+	opacity: 0.6;
+	cursor: pointer;
 }
 .header .header__header-column {
-  display: flex;
-  align-items: center;
+	display: flex;
+	align-items: center;
 }
 .header .header__back-btn {
-  font-size: 20px;
-  margin-right: 10px;
+	font-size: 20px;
+	margin-right: 10px;
 }
